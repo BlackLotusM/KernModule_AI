@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - smoke
   - Cover
   - enemy
-  - smoke
   layers:
   - Default
   - TransparentFX
