@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f491c32cf94dd0b4483fccc1d9a69be2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isInSmoke: {fileID: 11400000, guid: e92748f749b2e8149a9b9549776afd60, type: 2}
+  - hasWeapon: {fileID: 11400000, guid: ff22364180cff094a9315fd163d3c6f6, type: 2}
+  - needsWeapon: {fileID: 11400000, guid: f9d1b2f3e537ac54ea6d473336536a6f, type: 2}
+  - cantAttack: {fileID: 11400000, guid: 5d1740fb43dd0ab48b3e98d6eb548f00, type: 2}
+  - weaponHolder: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - weapon: {instanceID: 0}
+  - showNode: {instanceID: 0}
+  - ClosestPlayer: {instanceID: 0}
+  - lighting: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
